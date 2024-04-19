@@ -1,2 +1,5 @@
-# Stanford-CS106A-Assignment6
-Bias Bars 
+Bias Bars, Stanford University | Built an interactive graphical tool that plots word frequency data across review quality and professor gender to reveal interesting trends about biases in language. 
+
+This project served as the final assignment to wrap up an 8-week Python course. Throughout it, I became familiar with how Python can access, manipulate, and store data. I wrote programs that took input (the RMP reviews) and placed it into different 'buckets' of numerical ratings and gender. Using that data, I instructed the program to prompt a user for a 'keyword,' which was then searched for through the data set and attached to the previously mentioned tuple. This was then translated onto an interface, where users can see trends in how students rate and describe male and female professors differently. 
+
+I enjoyed this assignment because it embodies what I hope to gain from the technical field: using technical skills to perform research in areas where progress/change is needed. While playing around with the program, it is indeed possible to recognize points of bias where students may favor one gender professor over another. Moving forward with this information, we can now take a step back and evaluate how ourselves, hopefully adopting a more holistic approach as we rate professors.
